@@ -1,0 +1,10 @@
+1) Schabowy z ziemniakami; Cena: 32.0zl$
+Opis:@ Swiezo usmazony schab wieprzowy z ziemniakami& Dostepne: true*
+2) Salatka z lososiem; Cena: 36.0zl$
+Opis:@ Wiosenna salatka z lososiem& Dostepne: true*
+3) Bigos; Cena: 29.0zl$
+Opis:@ Rodzinny bigos& Dostepne: true*
+4) Gulasz wolowy; Cena: 40.0zl$
+Opis:@ Dlugo gotowany gulasz na najlepszej jakosci miesie wolowym& Dostepne: true*
+5) Specjal dla dzieci: Pizza pepperoni; Cena: 25.0zl$
+Opis:@ Dla najmlodszych, swiezo wypiekana pizza& Dostepne: true*
